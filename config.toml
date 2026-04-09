@@ -1,0 +1,12 @@
+[theme]
+# Cor de fundo principal do app
+backgroundColor = "#121212" 
+
+# Cor de fundo da barra lateral (sidebar) e caixas de seleção
+secondaryBackgroundColor = "#1e1e1e" 
+
+# Cor do texto principal
+textColor = "#ffffff" 
+
+# Cor principal para botões e destaques
+primaryColor = "#51aff7"
