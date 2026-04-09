@@ -1,0 +1,41 @@
+,Unnamed: 0,id_partida,competition,home_team,away_team,score_home,score_away,1_time_home,1_time_away,2_time_home,2_time_away,over_0_5,over_1_5,over_2_5,over_3_5,over_4_5,btts,team_over_0_5_rate,team_over_1_5_rate,team_over_2_5_rate,team_over_3_5_rate,team_over_4_5_rate,team_btts_rate,team_ppg_last_5,team_avg_goals_scored_l5,team_avg_goals_conceded_l5,team_clean_sheets_l5,team_avg_clean_sheets_l5,team_Analise,total_goals,adversario,resultado
+0,0,542409,Ligue 1,FC Nantes,Paris Saint-Germain FC,0.0,1.0,0.0,0.0,0.0,1.0,True,False,False,False,False,False,,,,,,,,,,,,,1.0,FC Nantes,2.0
+1,1,542422,Ligue 1,Paris Saint-Germain FC,Angers SCO,1.0,0.0,0.0,0.0,1.0,0.0,True,False,False,False,False,False,1.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,1.0,1.0,1.0,1.0,Angers SCO,2.0
+2,2,542429,Ligue 1,Toulouse FC,Paris Saint-Germain FC,3.0,6.0,1.0,4.0,2.0,2.0,True,True,True,True,True,True,1.0,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,2.0,1.0,2.0,9.0,Toulouse FC,2.0
+3,3,542438,Ligue 1,Paris Saint-Germain FC,Racing Club de Lens,2.0,0.0,1.0,0.0,1.0,0.0,True,True,False,False,False,False,1.0,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,0.3333333333333333,3.0,2.6666666666666665,1.0,2.0,0.6666666666666666,3.0,2.0,Racing Club de Lens,2.0
+4,4,551959,UEFA Champions League,Paris Saint-Germain FC,Atalanta BC,4.0,0.0,2.0,0.0,2.0,0.0,True,True,True,True,False,False,1.0,0.5,0.25,0.25,0.25,0.25,3.0,2.5,0.75,3.0,0.75,4.0,4.0,Atalanta BC,2.0
+5,5,542447,Ligue 1,Olympique de Marseille,Paris Saint-Germain FC,1.0,0.0,1.0,0.0,0.0,0.0,True,False,False,False,False,False,1.0,0.6,0.4,0.4,0.2,0.2,3.0,2.8,0.6,4.0,0.8,5.0,1.0,Olympique de Marseille,0.0
+6,6,542456,Ligue 1,Paris Saint-Germain FC,AJ Auxerre,2.0,0.0,1.0,0.0,1.0,0.0,True,True,False,False,False,False,1.0,0.6,0.4,0.4,0.2,0.2,2.4,2.6,0.8,3.0,0.6,5.0,2.0,AJ Auxerre,2.0
+7,7,551952,UEFA Champions League,FC Barcelona,Paris Saint-Germain FC,1.0,2.0,1.0,1.0,0.0,1.0,True,True,True,False,False,True,1.0,0.8,0.4,0.4,0.2,0.2,2.4,2.8,0.8,3.0,0.6,5.0,3.0,FC Barcelona,2.0
+8,8,542466,Ligue 1,Lille OSC,Paris Saint-Germain FC,1.0,1.0,0.0,0.0,1.0,1.0,True,True,False,False,False,True,1.0,0.8,0.4,0.2,0.0,0.2,2.4,2.0,0.4,3.0,0.6,5.0,2.0,Lille OSC,1.0
+9,9,542474,Ligue 1,Paris Saint-Germain FC,RC Strasbourg Alsace,3.0,3.0,1.0,2.0,2.0,1.0,True,True,True,True,True,True,1.0,0.8,0.4,0.2,0.0,0.4,2.0,1.8,0.6,2.0,0.4,5.0,6.0,RC Strasbourg Alsace,1.0
+10,10,551960,UEFA Champions League,Bayer 04 Leverkusen,Paris Saint-Germain FC,2.0,7.0,1.0,4.0,1.0,3.0,True,True,True,True,True,True,1.0,0.8,0.4,0.2,0.2,0.6,1.6,1.6,1.2,1.0,0.2,5.0,9.0,Bayer 04 Leverkusen,2.0
+11,11,542485,Ligue 1,Stade Brestois 29,Paris Saint-Germain FC,0.0,3.0,0.0,2.0,0.0,1.0,True,True,True,False,False,False,1.0,1.0,0.6,0.4,0.4,0.8,2.2,3.0,1.4,1.0,0.2,5.0,3.0,Stade Brestois 29,2.0
+12,12,542488,Ligue 1,FC Lorient,Paris Saint-Germain FC,1.0,1.0,0.0,0.0,1.0,1.0,True,True,False,False,False,True,1.0,1.0,0.8,0.4,0.4,0.8,2.2,3.2,1.4,1.0,0.2,5.0,2.0,FC Lorient,1.0
+13,13,542501,Ligue 1,Paris Saint-Germain FC,OGC Nice,1.0,0.0,0.0,0.0,1.0,0.0,True,False,False,False,False,False,1.0,1.0,0.6,0.4,0.4,0.8,1.8,3.0,1.4,1.0,0.2,5.0,1.0,OGC Nice,2.0
+14,14,551909,UEFA Champions League,Paris Saint-Germain FC,FC Bayern München,1.0,2.0,0.0,2.0,1.0,0.0,True,True,True,False,False,True,1.0,0.8,0.6,0.4,0.4,0.6,2.2,3.0,1.2,2.0,0.4,5.0,3.0,FC Bayern München,0.0
+15,15,542510,Ligue 1,Olympique Lyonnais,Paris Saint-Germain FC,2.0,3.0,1.0,2.0,1.0,1.0,True,True,True,True,True,True,1.0,0.8,0.6,0.2,0.2,0.6,2.0,2.6,1.0,2.0,0.4,5.0,5.0,Olympique Lyonnais,2.0
+16,16,542519,Ligue 1,Paris Saint-Germain FC,Le Havre AC,3.0,0.0,1.0,0.0,2.0,0.0,True,True,True,False,False,False,1.0,0.8,0.6,0.2,0.2,0.6,2.0,1.8,1.0,2.0,0.4,5.0,3.0,Le Havre AC,2.0
+17,17,551961,UEFA Champions League,Paris Saint-Germain FC,Tottenham Hotspur FC,5.0,3.0,1.0,1.0,4.0,2.0,True,True,True,True,True,True,1.0,0.8,0.6,0.2,0.2,0.6,2.0,1.8,1.0,2.0,0.4,5.0,8.0,Tottenham Hotspur FC,2.0
+18,18,542524,Ligue 1,AS Monaco FC,Paris Saint-Germain FC,1.0,0.0,0.0,0.0,1.0,0.0,True,False,False,False,False,False,1.0,0.8,0.8,0.4,0.4,0.6,2.4,2.6,1.4,2.0,0.4,5.0,1.0,AS Monaco FC,0.0
+19,19,542539,Ligue 1,Paris Saint-Germain FC,Stade Rennais FC 1901,5.0,0.0,2.0,0.0,3.0,0.0,True,True,True,True,True,False,1.0,0.8,0.8,0.4,0.4,0.6,1.8,2.4,1.6,1.0,0.2,5.0,5.0,Stade Rennais FC 1901,2.0
+20,20,551969,UEFA Champions League,Athletic Club,Paris Saint-Germain FC,0.0,0.0,0.0,0.0,0.0,0.0,False,False,False,False,False,False,1.0,0.8,0.8,0.6,0.6,0.4,2.4,3.2,1.2,2.0,0.4,5.0,0.0,Athletic Club,1.0
+21,21,542542,Ligue 1,FC Metz,Paris Saint-Germain FC,2.0,3.0,1.0,2.0,1.0,1.0,True,True,True,True,True,True,0.8,0.6,0.6,0.4,0.4,0.2,2.0,2.6,0.8,3.0,0.6,5.0,5.0,FC Metz,2.0
+22,22,542557,Ligue 1,Paris Saint-Germain FC,Paris FC,2.0,1.0,1.0,0.0,1.0,1.0,True,True,True,False,False,True,0.8,0.6,0.6,0.6,0.6,0.4,2.0,2.6,1.2,2.0,0.4,5.0,3.0,Paris FC,2.0
+23,23,542563,Ligue 1,Paris Saint-Germain FC,Lille OSC,3.0,0.0,1.0,0.0,2.0,0.0,True,True,True,False,False,False,0.8,0.6,0.6,0.4,0.4,0.4,2.0,2.0,0.8,2.0,0.4,5.0,3.0,Lille OSC,2.0
+24,24,551962,UEFA Champions League,Sporting Clube de Portugal,Paris Saint-Germain FC,2.0,1.0,0.0,0.0,2.0,1.0,True,True,True,False,False,True,0.8,0.8,0.8,0.4,0.4,0.4,2.6,2.6,0.6,3.0,0.6,5.0,3.0,Sporting Clube de Portugal,0.0
+25,25,542569,Ligue 1,AJ Auxerre,Paris Saint-Germain FC,0.0,1.0,0.0,0.0,0.0,1.0,True,False,False,False,False,False,0.8,0.8,0.8,0.2,0.2,0.6,2.0,1.8,1.0,2.0,0.4,5.0,1.0,AJ Auxerre,2.0
+26,26,552050,UEFA Champions League,Paris Saint-Germain FC,Newcastle United FC,1.0,1.0,1.0,1.0,0.0,0.0,True,True,False,False,False,True,1.0,0.8,0.8,0.2,0.2,0.6,2.4,2.0,1.0,2.0,0.4,5.0,2.0,Newcastle United FC,1.0
+27,27,542583,Ligue 1,RC Strasbourg Alsace,Paris Saint-Germain FC,1.0,2.0,1.0,1.0,0.0,1.0,True,True,True,False,False,True,1.0,0.8,0.6,0.0,0.0,0.6,2.0,1.6,0.8,2.0,0.4,5.0,3.0,RC Strasbourg Alsace,2.0
+28,28,542591,Ligue 1,Paris Saint-Germain FC,Olympique de Marseille,5.0,0.0,2.0,0.0,3.0,0.0,True,True,True,True,True,False,1.0,0.8,0.6,0.0,0.0,0.6,2.0,1.6,0.8,2.0,0.4,5.0,5.0,Olympique de Marseille,2.0
+29,29,542603,Ligue 1,Stade Rennais FC 1901,Paris Saint-Germain FC,3.0,1.0,1.0,0.0,2.0,1.0,True,True,True,True,False,True,1.0,0.8,0.6,0.2,0.2,0.6,2.0,2.0,0.8,2.0,0.4,5.0,4.0,Stade Rennais FC 1901,0.0
+30,30,552053,UEFA Champions League,AS Monaco FC,Paris Saint-Germain FC,2.0,3.0,2.0,2.0,0.0,1.0,True,True,True,True,True,True,1.0,0.8,0.6,0.4,0.2,0.6,2.0,2.0,1.0,2.0,0.4,5.0,5.0,AS Monaco FC,2.0
+31,31,542608,Ligue 1,Paris Saint-Germain FC,FC Metz,3.0,0.0,2.0,0.0,1.0,0.0,True,True,True,False,False,False,1.0,1.0,0.8,0.6,0.4,0.8,2.0,2.4,1.4,1.0,0.2,5.0,3.0,FC Metz,2.0
+32,32,552061,UEFA Champions League,Paris Saint-Germain FC,AS Monaco FC,2.0,2.0,0.0,1.0,2.0,1.0,True,True,True,True,False,True,1.0,1.0,1.0,0.6,0.4,0.6,2.4,2.8,1.2,2.0,0.4,5.0,4.0,AS Monaco FC,1.0
+33,33,542613,Ligue 1,Le Havre AC,Paris Saint-Germain FC,0.0,1.0,0.0,1.0,0.0,0.0,True,False,False,False,False,False,1.0,1.0,1.0,0.8,0.4,0.6,2.0,2.8,1.4,2.0,0.4,5.0,1.0,Le Havre AC,2.0
+34,34,542628,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,1.0,3.0,0.0,1.0,1.0,2.0,True,True,True,True,False,True,1.0,0.8,0.8,0.6,0.2,0.6,2.0,2.0,1.4,2.0,0.4,5.0,4.0,AS Monaco FC,0.0
+35,35,552068,UEFA Champions League,Paris Saint-Germain FC,Chelsea FC,5.0,2.0,2.0,1.0,3.0,1.0,True,True,True,True,True,True,1.0,0.8,0.8,0.6,0.2,0.6,2.0,2.0,1.4,2.0,0.4,5.0,7.0,Chelsea FC,2.0
+36,36,552076,UEFA Champions League,Chelsea FC,Paris Saint-Germain FC,0.0,3.0,0.0,2.0,0.0,1.0,True,True,True,False,False,False,1.0,0.8,0.8,0.6,0.2,0.6,2.0,2.4,1.4,2.0,0.4,5.0,3.0,Chelsea FC,2.0
+37,37,542644,Ligue 1,OGC Nice,Paris Saint-Germain FC,0.0,4.0,0.0,1.0,0.0,3.0,True,True,True,True,False,False,1.0,0.8,0.8,0.6,0.2,0.6,2.0,2.4,1.4,2.0,0.4,5.0,4.0,OGC Nice,2.0
+38,38,542654,Ligue 1,Paris Saint-Germain FC,Toulouse FC,3.0,1.0,2.0,1.0,1.0,0.0,True,True,True,True,False,True,1.0,0.8,0.8,0.6,0.2,0.4,2.4,2.8,1.0,3.0,0.6,5.0,4.0,Toulouse FC,2.0
+39,39,556718,UEFA Champions League,Paris Saint-Germain FC,Liverpool FC,,,,,,,False,False,False,False,False,False,1.0,1.0,1.0,0.8,0.2,0.6,2.4,3.2,1.2,2.0,0.4,5.0,,Liverpool FC,

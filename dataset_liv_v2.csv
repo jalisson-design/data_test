@@ -1,0 +1,43 @@
+,Unnamed: 0,id_partida,competition,home_team,away_team,score_home,score_away,1_time_home,1_time_away,2_time_home,2_time_away,over_0_5,over_1_5,over_2_5,over_3_5,over_4_5,btts,team_over_0_5_rate,team_over_1_5_rate,team_over_2_5_rate,team_over_3_5_rate,team_over_4_5_rate,team_btts_rate,team_ppg_last_5,team_avg_goals_scored_l5,team_avg_goals_conceded_l5,team_clean_sheets_l5,team_avg_clean_sheets_l5,team_Analise,total_goals,adversario,resultado
+0,0,537785,Premier League,Liverpool FC,AFC Bournemouth,4.0,2.0,1.0,0.0,3.0,2.0,True,True,True,True,True,True,,,,,,,,,,,,,6.0,AFC Bournemouth,2.0
+1,1,537803,Premier League,Newcastle United FC,Liverpool FC,2.0,3.0,0.0,1.0,2.0,2.0,True,True,True,True,True,True,1.0,1.0,1.0,1.0,1.0,1.0,3.0,4.0,2.0,0.0,0.0,1.0,5.0,Newcastle United FC,2.0
+2,2,537809,Premier League,Liverpool FC,Arsenal FC,1.0,0.0,0.0,0.0,1.0,0.0,True,False,False,False,False,False,1.0,1.0,1.0,1.0,1.0,1.0,3.0,3.5,2.0,0.0,0.0,2.0,1.0,Arsenal FC,2.0
+3,3,537819,Premier League,Burnley FC,Liverpool FC,0.0,1.0,0.0,0.0,0.0,1.0,True,False,False,False,False,False,1.0,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666,3.0,2.6666666666666665,1.3333333333333333,1.0,0.3333333333333333,3.0,1.0,Burnley FC,2.0
+4,4,551946,UEFA Champions League,Liverpool FC,Club Atlético de Madrid,3.0,2.0,2.0,1.0,1.0,1.0,True,True,True,True,True,True,1.0,0.5,0.5,0.5,0.5,0.5,3.0,2.25,1.0,2.0,0.5,4.0,5.0,Club Atlético de Madrid,2.0
+5,5,537831,Premier League,Liverpool FC,Everton FC,2.0,1.0,2.0,0.0,0.0,1.0,True,True,True,False,False,True,1.0,0.6,0.6,0.6,0.6,0.6,3.0,2.4,1.2,2.0,0.4,5.0,3.0,Everton FC,2.0
+6,6,537836,Premier League,Crystal Palace FC,Liverpool FC,2.0,1.0,1.0,0.0,1.0,1.0,True,True,True,False,False,True,1.0,0.6,0.6,0.4,0.4,0.6,3.0,2.0,1.0,2.0,0.4,5.0,3.0,Crystal Palace FC,0.0
+7,7,551951,UEFA Champions League,Galatasaray SK,Liverpool FC,1.0,0.0,1.0,0.0,0.0,0.0,True,False,False,False,False,False,1.0,0.6,0.6,0.2,0.2,0.6,2.4,1.6,1.0,2.0,0.4,5.0,1.0,Galatasaray SK,0.0
+8,8,537849,Premier League,Chelsea FC,Liverpool FC,2.0,1.0,1.0,0.0,1.0,1.0,True,True,True,False,False,True,1.0,0.6,0.6,0.2,0.2,0.6,1.8,1.4,1.2,1.0,0.2,5.0,3.0,Chelsea FC,0.0
+9,9,537860,Premier League,Liverpool FC,Manchester United FC,1.0,2.0,0.0,1.0,1.0,1.0,True,True,True,False,False,True,1.0,0.8,0.8,0.2,0.2,0.8,1.2,1.4,1.6,0.0,0.0,5.0,3.0,Manchester United FC,0.0
+10,10,551947,UEFA Champions League,Eintracht Frankfurt,Liverpool FC,1.0,5.0,1.0,3.0,0.0,2.0,True,True,True,True,True,True,1.0,0.8,0.8,0.0,0.0,0.8,0.6,1.0,1.6,0.0,0.0,5.0,6.0,Eintracht Frankfurt,2.0
+11,11,537868,Premier League,Brentford FC,Liverpool FC,3.0,2.0,2.0,1.0,1.0,1.0,True,True,True,True,True,True,1.0,0.8,0.8,0.2,0.2,0.8,0.6,1.6,1.6,0.0,0.0,5.0,5.0,Brentford FC,0.0
+12,12,537880,Premier League,Liverpool FC,Aston Villa FC,2.0,0.0,1.0,0.0,1.0,0.0,True,True,False,False,False,False,1.0,0.8,0.8,0.4,0.4,0.8,0.6,1.8,1.8,0.0,0.0,5.0,2.0,Aston Villa FC,2.0
+13,13,551924,UEFA Champions League,Liverpool FC,Real Madrid CF,1.0,0.0,0.0,0.0,1.0,0.0,True,False,False,False,False,False,1.0,1.0,0.8,0.4,0.4,0.8,1.2,2.2,1.6,1.0,0.2,5.0,1.0,Real Madrid CF,2.0
+14,14,537891,Premier League,Manchester City FC,Liverpool FC,3.0,0.0,2.0,0.0,1.0,0.0,True,True,True,False,False,False,1.0,0.8,0.6,0.4,0.4,0.6,1.8,2.2,1.2,2.0,0.4,5.0,3.0,Manchester City FC,0.0
+15,15,537900,Premier League,Liverpool FC,Nottingham Forest FC,0.0,3.0,0.0,1.0,0.0,2.0,True,True,True,False,False,False,1.0,0.8,0.6,0.4,0.4,0.4,1.8,2.0,1.4,2.0,0.4,5.0,3.0,Nottingham Forest FC,0.0
+16,16,551948,UEFA Champions League,Liverpool FC,PSV,1.0,4.0,1.0,1.0,0.0,3.0,True,True,True,True,True,True,1.0,0.8,0.6,0.2,0.2,0.2,1.2,1.0,1.8,2.0,0.4,5.0,5.0,PSV,0.0
+17,17,537914,Premier League,West Ham United FC,Liverpool FC,0.0,2.0,0.0,0.0,0.0,2.0,True,True,False,False,False,False,1.0,0.8,0.6,0.2,0.2,0.2,1.2,0.8,2.0,2.0,0.4,5.0,2.0,West Ham United FC,2.0
+18,18,537920,Premier League,Liverpool FC,Sunderland AFC,1.0,1.0,0.0,0.0,1.0,1.0,True,True,False,False,False,True,1.0,0.8,0.6,0.2,0.2,0.2,1.2,0.8,2.0,2.0,0.4,5.0,2.0,Sunderland AFC,1.0
+19,19,537930,Premier League,Leeds United FC,Liverpool FC,3.0,3.0,0.0,0.0,3.0,3.0,True,True,True,True,True,True,1.0,1.0,0.6,0.2,0.2,0.4,0.8,0.8,2.2,1.0,0.2,5.0,6.0,Leeds United FC,1.0
+20,20,551931,UEFA Champions League,FC Internazionale Milano,Liverpool FC,0.0,1.0,0.0,0.0,0.0,1.0,True,False,False,False,False,False,1.0,1.0,0.6,0.4,0.4,0.6,1.0,1.4,2.2,1.0,0.2,5.0,1.0,FC Internazionale Milano,2.0
+21,21,537941,Premier League,Liverpool FC,Brighton & Hove Albion FC,2.0,0.0,1.0,0.0,1.0,0.0,True,True,False,False,False,False,1.0,0.8,0.4,0.4,0.4,0.6,1.6,1.6,1.6,2.0,0.4,5.0,2.0,Brighton & Hove Albion FC,2.0
+22,22,537953,Premier League,Tottenham Hotspur FC,Liverpool FC,1.0,2.0,0.0,0.0,1.0,2.0,True,True,True,False,False,True,1.0,0.8,0.2,0.2,0.2,0.4,2.2,1.8,0.8,3.0,0.6,5.0,3.0,Tottenham Hotspur FC,2.0
+23,23,537961,Premier League,Liverpool FC,Wolverhampton Wanderers FC,2.0,1.0,2.0,0.0,0.0,1.0,True,True,True,False,False,True,1.0,0.8,0.4,0.2,0.2,0.6,2.2,1.8,1.0,2.0,0.4,5.0,3.0,Wolverhampton Wanderers FC,2.0
+24,24,537971,Premier League,Liverpool FC,Leeds United FC,0.0,0.0,0.0,0.0,0.0,0.0,False,False,False,False,False,False,1.0,0.8,0.6,0.2,0.2,0.6,2.6,2.0,1.0,2.0,0.4,5.0,0.0,Leeds United FC,1.0
+25,25,537979,Premier League,Fulham FC,Liverpool FC,2.0,2.0,1.0,0.0,1.0,2.0,True,True,True,True,False,True,0.8,0.6,0.4,0.0,0.0,0.4,2.6,1.4,0.4,3.0,0.6,5.0,4.0,Fulham FC,1.0
+26,26,537987,Premier League,Arsenal FC,Liverpool FC,0.0,0.0,0.0,0.0,0.0,0.0,False,False,False,False,False,False,0.8,0.8,0.6,0.2,0.0,0.6,2.2,1.6,0.8,2.0,0.4,5.0,0.0,Arsenal FC,1.0
+27,27,537999,Premier League,Liverpool FC,Burnley FC,1.0,1.0,1.0,0.0,0.0,1.0,True,True,False,False,False,True,0.6,0.6,0.6,0.2,0.0,0.6,1.8,1.2,0.8,2.0,0.4,5.0,2.0,Burnley FC,1.0
+28,28,551949,UEFA Champions League,Olympique de Marseille,Liverpool FC,0.0,3.0,0.0,1.0,0.0,2.0,True,True,True,False,False,False,0.6,0.6,0.4,0.2,0.0,0.6,1.4,1.0,0.8,2.0,0.4,5.0,3.0,Olympique de Marseille,2.0
+29,29,538005,Premier League,AFC Bournemouth,Liverpool FC,3.0,2.0,2.0,1.0,1.0,1.0,True,True,True,True,True,True,0.6,0.6,0.4,0.2,0.0,0.4,1.4,1.2,0.6,3.0,0.6,5.0,5.0,AFC Bournemouth,0.0
+30,30,551950,UEFA Champions League,Liverpool FC,Qarabağ Ağdam FK,6.0,0.0,2.0,0.0,4.0,0.0,True,True,True,True,True,False,0.8,0.8,0.6,0.4,0.2,0.6,1.2,1.6,1.2,2.0,0.4,5.0,6.0,Qarabağ Ağdam FK,2.0
+31,31,538019,Premier League,Liverpool FC,Newcastle United FC,4.0,1.0,2.0,1.0,2.0,0.0,True,True,True,True,True,True,0.8,0.8,0.6,0.4,0.4,0.4,1.6,2.4,0.8,3.0,0.6,5.0,5.0,Newcastle United FC,2.0
+32,32,538030,Premier League,Liverpool FC,Manchester City FC,1.0,2.0,0.0,0.0,1.0,2.0,True,True,True,False,False,True,1.0,1.0,0.8,0.6,0.6,0.6,2.0,3.2,1.0,2.0,0.4,5.0,3.0,Manchester City FC,0.0
+33,33,538035,Premier League,Sunderland AFC,Liverpool FC,0.0,1.0,0.0,0.0,0.0,1.0,True,False,False,False,False,False,1.0,1.0,1.0,0.6,0.6,0.6,1.8,3.2,1.2,2.0,0.4,5.0,1.0,Sunderland AFC,2.0
+34,34,538052,Premier League,Nottingham Forest FC,Liverpool FC,0.0,1.0,0.0,0.0,0.0,1.0,True,False,False,False,False,False,1.0,0.8,0.8,0.6,0.6,0.6,1.8,2.8,1.2,2.0,0.4,5.0,1.0,Nottingham Forest FC,2.0
+35,35,538060,Premier League,Liverpool FC,West Ham United FC,5.0,2.0,3.0,0.0,2.0,2.0,True,True,True,True,True,True,1.0,0.6,0.6,0.4,0.4,0.4,2.4,2.6,0.6,3.0,0.6,5.0,7.0,West Ham United FC,2.0
+36,36,538074,Premier League,Wolverhampton Wanderers FC,Liverpool FC,2.0,1.0,0.0,0.0,2.0,1.0,True,True,True,False,False,True,1.0,0.6,0.6,0.4,0.4,0.6,2.4,2.4,1.0,2.0,0.4,5.0,3.0,Wolverhampton Wanderers FC,0.0
+37,37,552069,UEFA Champions League,Galatasaray SK,Liverpool FC,1.0,0.0,1.0,0.0,0.0,0.0,True,False,False,False,False,False,1.0,0.6,0.6,0.2,0.2,0.6,1.8,1.8,1.2,2.0,0.4,5.0,1.0,Galatasaray SK,0.0
+38,38,538081,Premier League,Liverpool FC,Tottenham Hotspur FC,1.0,1.0,1.0,0.0,0.0,1.0,True,True,False,False,False,True,1.0,0.4,0.4,0.2,0.2,0.4,1.8,1.6,1.0,2.0,0.4,5.0,2.0,Tottenham Hotspur FC,1.0
+39,39,552077,UEFA Champions League,Liverpool FC,Galatasaray SK,4.0,0.0,1.0,0.0,3.0,0.0,True,True,True,True,False,False,1.0,0.6,0.4,0.2,0.2,0.6,1.4,1.6,1.2,1.0,0.2,5.0,4.0,Galatasaray SK,2.0
+40,40,538087,Premier League,Brighton & Hove Albion FC,Liverpool FC,2.0,1.0,1.0,1.0,1.0,0.0,True,True,True,False,False,True,1.0,0.8,0.6,0.4,0.2,0.6,1.4,2.2,1.2,1.0,0.2,5.0,3.0,Brighton & Hove Albion FC,0.0
+41,41,556718,UEFA Champions League,Paris Saint-Germain FC,Liverpool FC,,,,,,,False,False,False,False,False,False,1.0,0.8,0.6,0.2,0.0,0.6,0.8,1.4,1.2,1.0,0.2,5.0,,Paris Saint-Germain FC,
